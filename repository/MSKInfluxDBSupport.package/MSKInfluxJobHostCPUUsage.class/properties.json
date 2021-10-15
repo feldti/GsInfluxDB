@@ -1,0 +1,14 @@
+{
+	"category" : "MSKInfluxDBSupport",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "MSKInfluxJobHostCPUUsage",
+	"pools" : [
+		 ],
+	"super" : "MSKInfluxJob",
+	"type" : "normal" }

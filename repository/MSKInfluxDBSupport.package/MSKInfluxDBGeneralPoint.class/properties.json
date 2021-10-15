@@ -1,0 +1,14 @@
+{
+	"category" : "MSKInfluxDBSupport",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"ts" ],
+	"name" : "MSKInfluxDBGeneralPoint",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

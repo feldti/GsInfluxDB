@@ -1,0 +1,14 @@
+{
+	"category" : "MSKInfluxDBSupport",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "MSKInfluxDBMeasurementLine",
+	"pools" : [
+		 ],
+	"super" : "MSKInfluxDBGeneralLine",
+	"type" : "normal" }

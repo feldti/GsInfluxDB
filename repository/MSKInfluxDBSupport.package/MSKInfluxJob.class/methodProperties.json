@@ -1,0 +1,20 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"currentJobTS" : "MSK 07/11/2019 10:32",
+		"currentJobTS:" : "MSK 07/11/2019 10:32",
+		"duration" : "MSK 07/11/2019 11:55",
+		"duration:" : "MSK 07/11/2019 11:55",
+		"initialize" : "MSK 07/11/2019 11:55",
+		"name" : "MSK 07/11/2019 10:32",
+		"name:" : "MSK 07/11/2019 10:32",
+		"nextJobTS" : "MSK 07/11/2019 10:32",
+		"nextJobTS:" : "MSK 07/11/2019 10:32",
+		"updateCurrentJobTS" : "MSK 07/11/2019 11:55",
+		"updateNextJobTS" : "MSK 07/11/2019 11:55",
+		"writeFields:asInfluxDBLineProtocolOn:" : "MSK 07/11/2019 10:35",
+		"writeLineEndingAsInfluxDBLineProtocolOn:" : "MSK 07/11/2019 10:35",
+		"writeMeasurementAsInfluxDBLineProtocolOn:" : "MSK 07/11/2019 14:08",
+		"writeTags:asInfluxDBLineProtocolOn:" : "MSK 07/11/2019 10:35",
+		"writeTimestampAsInfluxDBLineProtocolOn:" : "MSK 07/11/2019 10:34" } }

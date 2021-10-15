@@ -1,0 +1,2 @@
+*MSKInfluxDBSupport-extensions
+asInfluxDBLineProtocolOn: aStream

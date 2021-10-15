@@ -1,0 +1,7 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"asInfluxDBLineProtocolKeyOn:" : "MSK 02/23/2019 10:02",
+		"asInfluxDBLineProtocolOn:" : "MSK 02/23/2019 09:39",
+		"asInfluxDBLineProtocolValueOn:" : "MSK 02/23/2019 10:02" } }

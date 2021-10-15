@@ -1,0 +1,3 @@
+Accessing
+inputQueue
+	^inputQueue

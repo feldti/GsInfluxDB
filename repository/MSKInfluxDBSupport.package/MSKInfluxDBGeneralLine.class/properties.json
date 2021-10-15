@@ -1,0 +1,20 @@
+{
+	"category" : "MSKInfluxDBSupport",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"points",
+		"tags",
+		"fields",
+		"name",
+		"deletionIntervall",
+		"inputQueue",
+		"aggregationLines" ],
+	"name" : "MSKInfluxDBGeneralLine",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

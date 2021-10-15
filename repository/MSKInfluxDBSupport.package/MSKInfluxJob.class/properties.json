@@ -1,0 +1,17 @@
+{
+	"category" : "MSKInfluxDBSupport",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"name",
+		"nextJobTS",
+		"currentJobTS",
+		"duration" ],
+	"name" : "MSKInfluxJob",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

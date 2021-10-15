@@ -1,0 +1,15 @@
+{
+	"category" : "MSKInfluxDBSupport",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"name",
+		"value" ],
+	"name" : "MSKInfluxDBTagOrField",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

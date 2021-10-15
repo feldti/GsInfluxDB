@@ -1,0 +1,15 @@
+{
+	"category" : "MSKInfluxDBSupport",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"aggregationIntervall",
+		"aggregationIntervallCreationBlock" ],
+	"name" : "MSKInfluxDBAggregationLine",
+	"pools" : [
+		 ],
+	"super" : "MSKInfluxDBGeneralLine",
+	"type" : "normal" }

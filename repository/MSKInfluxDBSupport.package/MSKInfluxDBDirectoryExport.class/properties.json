@@ -1,0 +1,15 @@
+{
+	"category" : "MSKInfluxDBSupport",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"directoryPath",
+		"jobs" ],
+	"name" : "MSKInfluxDBDirectoryExport",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

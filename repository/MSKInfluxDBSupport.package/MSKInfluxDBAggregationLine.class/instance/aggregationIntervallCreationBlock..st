@@ -1,0 +1,3 @@
+Updating
+aggregationIntervallCreationBlock: newValue
+	aggregationIntervallCreationBlock := newValue
