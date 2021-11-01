@@ -1,5 +1,5 @@
 # GsInfluxDB
-Experimental Playground forGemstone/S and Influx
+Experimental Playground for Gemstone/S and InfluxDB. 
 
 ## Installation
 
