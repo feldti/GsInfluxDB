@@ -1,0 +1,15 @@
+{
+	"category" : "BaselineOfGsInfluxDB",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"Lf",
+		"Tab" ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "BaselineOfGsInfluxDB",
+	"pools" : [
+		 ],
+	"super" : "BaselineOf",
+	"type" : "normal" }
